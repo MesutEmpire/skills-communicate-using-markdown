@@ -20,4 +20,7 @@ function hello(){
 console.log("hello world");
 }
 ```
-
+## Add Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
