@@ -5,4 +5,4 @@
 ##### This is my fifth header h5
 ###### This is my sixth header h6
 
-This is me writing header in markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
